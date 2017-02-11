@@ -14,7 +14,7 @@ namespace ubiDotsMockup
         {
             for (int a = 0; a < 10; a++)
             {
-
+//oprova modifica per commit 
                 ApiClient client = new ApiClient("81ccc02cba03d9ae5a2ee1406603f064118233a8");
 
                 Variable myTemp = client.GetVariable("589c3d0276254208983247d2");
