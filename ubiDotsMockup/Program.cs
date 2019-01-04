@@ -87,7 +87,7 @@ namespace ubiDotsMockup
                     logger.Error(e);
                 }
 
-                Thread.Sleep(30000); //Attendo N min
+                Thread.Sleep(60000); //Attendo 1 min (1 min = 60000 millisec)
 
             }
 
