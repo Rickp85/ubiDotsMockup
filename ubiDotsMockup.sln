@@ -6,9 +6,6 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ubiDotsMockup", "ubiDotsMockup\ubiDotsMockup.csproj", "{EBA9DAB2-7D61-45B3-A659-70AE10CBDFEE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FFE4458D-94F2-40DA-91DC-99193ADB0954}"
-	ProjectSection(SolutionItems) = preProject
-		ubiDotsMockup\ubiDotsMockup_ChiaveTemporanea.pfx = ubiDotsMockup\ubiDotsMockup_ChiaveTemporanea.pfx
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
