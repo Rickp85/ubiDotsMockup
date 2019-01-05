@@ -125,6 +125,7 @@
       <DependentUpon>App.config</DependentUpon>
     </None>
     <None Include="packages.config" />
+    <None Include="ubiDotsMockup_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
